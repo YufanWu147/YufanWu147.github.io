@@ -2,3 +2,4 @@ url: "https://YufanWu147.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Yufan Wu" # the name of your site, e.g. ACME Corp.
 description: ""
+theme: academic-jekyll-theme
