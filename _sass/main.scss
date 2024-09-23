@@ -13,4 +13,7 @@ body a {
   color: $linkColor
 }
 
-img.wrap {float: right}
+img.wrap {
+  float: right;
+  margin-left: 10px;
+}
