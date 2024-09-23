@@ -8,10 +8,11 @@
         <p>{{ contact.title }}</p>
         <p>{{ contact.department }}</p>
         <p>{{ contact.institution }}</p>
-        <p>Email: {{ contact.email }}</p>
+        <p><i class="fab fa-{{ item.icon }}"></i> Email: {{ contact.email }}</p>
       </div>
       <div class="col-md-6">
-        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="90%">
+        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
+        <p>A flock of black-bellied whisling ducks in Hermann Park</p>
       </div>
     </div>
     {% endfor %}
