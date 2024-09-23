@@ -2,7 +2,6 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 social:
-- {icon: 'envelope', link: 'mailto: Yufan.Wu@uth.tmc.edu'}
 - {icon: 'github', link: 'https://github.com/YufanWu147'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0001-9277-2515'}
 
