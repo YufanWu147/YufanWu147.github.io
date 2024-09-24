@@ -6,4 +6,4 @@ social:
 - {icon: 'orcid', link: 'https://orcid.org/0000-0001-9277-2515'}
 
 contacts:
-- {name: 'Yufan Wu', title: 'Ph.D. Student/Graduate Research Assistant', department: 'MD Anderson UT Health Houston', institution: 'Graduate School of Biomedical Sciences', email: 'Yufan.Wu@uth.tmc.edu.edu', image: 'assets/img/contact.jpg'}
+- {name: 'Yufan Wu', title: 'Ph.D. Student/Graduate Research Assistant', department: 'MD Anderson UT Health Houston', institution: 'Graduate School of Biomedical Sciences', email: 'Yufan.Wu@uth.tmc.edu', image: 'assets/img/contact.jpg'}
