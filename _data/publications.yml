@@ -1,10 +1,10 @@
 featured:
 - {name: 'Mangani D, Subramanian A, Huang L, <b>Wu Y</b> et al. A TCF1-driven regulatory network determines homeostatic versus pro-inflammatory state of Th17 cells. <i>Immunity. in press.</i>'}
 - {name: 'Kimura K, Subramanian A, Yin Z, Khalilnezhad A, <b>Wu Y</b> et al. Immune checkpoint molecule Tim-3 regulates microglial function and the development of Alzheimer’s disease pathology. <i>in revisions</i>.'}
-- {name: "Ding Q, <b>Wu Y</b> et al. TIM-4 identifies effector B cells expressing a RORγT-driven pro-inflammatory cytokine module that promotes immune responses. <i>manuscript in preparation<i>. <a url='https://www.biorxiv.org/content/10.1101/2023.09.22.558524v2'><i>bioRxiv<i/></a>", }
+- {name: "Ding Q, <b>Wu Y</b> et al. TIM-4 identifies effector B cells expressing a RORγT-driven pro-inflammatory cytokine module that promotes immune responses. <i>manuscript in preparation<i>. <a href='https://www.biorxiv.org/content/10.1101/2023.09.22.558524v2'><i>bioRxiv<i/></a>", }
 
 
 index:
 - {name: 'Mangani D, Subramanian A, Huang L, <b>Wu Y</b> et al. A TCF1-driven regulatory network determines homeostatic versus pro-inflammatory state of Th17 cells. <i>Immunity. in press.</i>'}
 - {name: 'Kimura K, Subramanian A, Yin Z, Khalilnezhad A, <b>Wu Y</b> et al. Immune checkpoint molecule Tim-3 regulates microglial function and the development of Alzheimer’s disease pathology. <i>in revisions</i>.'}
-- {name: "Ding Q, <b>Wu Y</b> et al. TIM-4 identifies effector B cells expressing a RORγT-driven pro-inflammatory cytokine module that promotes immune responses. <i>manuscript in preparation<i>. <a url='https://www.biorxiv.org/content/10.1101/2023.09.22.558524v2'><i>bioRxiv<i/></a>", }
+- {name: "Ding Q, <b>Wu Y</b> et al. TIM-4 identifies effector B cells expressing a RORγT-driven pro-inflammatory cytokine module that promotes immune responses. <i>manuscript in preparation<i>. <a href='https://www.biorxiv.org/content/10.1101/2023.09.22.558524v2'><i>bioRxiv<i/></a>", }
